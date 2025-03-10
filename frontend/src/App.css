@@ -36,7 +36,7 @@ nav {
 }
 
 #search_btn {
-  background-color: #febd69;
+  background-color: rgb(115, 115, 230);
 }
 
 .input-group {
@@ -51,7 +51,7 @@ nav {
 
 #login_btn,
 #view_btn {
-  background-color: #febd69;
+  background-color: rgb(115, 115, 230);
   padding: 0.4rem 1.8rem;
   font-family: calibri;
 }
@@ -62,7 +62,7 @@ nav {
 }
 
 #cart_count {
-  background-color: #febd69;
+  background-color: rgb(115, 115, 230);
   padding: 0.2rem 0.5rem;
   border-radius: 0.2rem;
   color: black;
@@ -84,7 +84,7 @@ nav {
 }
 
 .card-title a:hover {
-  color: #fa9c23;
+  color: rgb(115, 115, 230);
   text-decoration: none;
 }
 
@@ -97,7 +97,7 @@ nav {
 }
 
 #view_btn {
-  background-color: #fa9c23;
+  background-color: rgb(115, 115, 230);
   color: white;
 }
 
@@ -108,7 +108,7 @@ nav {
 
 .ratings {
   font-size: 1.2rem;
-  color: #fdcc0d;
+  color: rgb(115, 115, 230);
 }
 
 #no_of_reviews {
@@ -131,7 +131,7 @@ footer {
   display: inline-block;
   position: relative;
   font-family: FontAwesome;
-  color: #fdcc0d;
+  color: rgb(242, 81, 7);
 }
 
 .rating-outer::before {
@@ -149,7 +149,7 @@ footer {
 
 .rating-inner::before {
   content: '\f005 \f005 \f005 \f005 \f005';
-  color: #f8ce0b;
+  color: rgb(240, 82, 8);
 }
 
 /* Product Details Page */
@@ -166,7 +166,7 @@ footer {
 #cart_btn,
 #review_btn {
   border-radius: 2rem;
-  background-color: #fa9c23;
+  background-color: rgb(115, 115, 230);
   border: none;
   padding: 0.5rem 2rem;
 }
@@ -211,8 +211,8 @@ footer {
   height: 64px;
   margin: 8px;
   border-radius: 50%;
-  border: 6px solid #fa9c23;
-  border-color: #fa9c23 transparent;
+  border: 6px solid rgb(115, 115, 230);
+  border-color: rgb(115, 115, 230) transparent;
   animation: lds-dual-ring 1.2s linear infinite;
 }
 @keyframes lds-dual-ring {
@@ -244,15 +244,15 @@ footer {
 }
 
 #card_item_price {
-  color: #febd69;
+  color: rgb(215, 120, 11);
   font-weight: bold;
   font-size: 1.4rem;
 }
 
 #checkout_btn,
 .review-btn {
-  background-color: #fa9c23;
-  border-color: #fa9c23;
+  background-color: rgb(115, 115, 230);
+  border-color: rgb(115, 115, 230)fa9c23;
   margin-top: 2rem;
   border-radius: 5rem;
 }
